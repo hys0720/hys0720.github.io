@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hys0720.github.io/sitemap.xml
